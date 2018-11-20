@@ -361,3 +361,15 @@ $ sudo cat /var/log/apache2/error.log
 ```
 
 ## References
+
+[1] <https://www.digitalocean.com/community/tutorials>
+
+[2] <http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/>
+
+[3] <https://www.topikettunen.com/2018/02/01/h3-linux-palvelimet-ict4tn021-8.html>
+
+[4] <http://terokarvinen.com/2016/deploy-flask-python3-on-apache2-ubuntu>
+
+[5] udacity class.
+
+[5] found a solution for several problems in various websites such as ( Stackoverflow ) and ( udacity knowleadge ).
